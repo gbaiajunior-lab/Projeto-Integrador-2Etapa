@@ -27,7 +27,7 @@ O objetivo é permitir que usuários cadastrem e organizem tarefas, definam praz
 
 ### 2\. Criar banco de dados
 
-1. Acesse `http://localhost/phpmyadmin`
+1. Acesse `(http://localhost:8090/phpmyadmin)`
 2. Importe o arquivo:
 
    * `database/script.sql`
@@ -36,13 +36,13 @@ O objetivo é permitir que usuários cadastrem e organizem tarefas, definam praz
 
 Copie a pasta do projeto para:
 
-`C:\\\\xampp\\\\htdocs\\\\ProjetoIntegrador\\\_TaskFlow`
+`C:\xampp\htdocs\ProjetoIntegrador_TaskFlow`
 
 ### 4\. Abrir no navegador
 
 Acesse:
 
-`http://localhost/ProjetoIntegrador\\\_TaskFlow/frontend/index.html`
+`(http://localhost:8090/ProjetoIntegrador_TaskFlow/frontend/index.html)`
 
 ### 👤 Funcionalidades da Prova de Conceito
 
