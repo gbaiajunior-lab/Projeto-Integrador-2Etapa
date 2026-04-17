@@ -62,7 +62,7 @@ Acesse:
 
 ### 🔗 Links do Projeto
 
-##### \- Repositório GitHub: https://github.com/gbajajunior-lab/Projeto-Integrador-2Etapa
+##### \- Repositório GitHub: https://github.com/gbaiajunior-lab/Projeto-Integrador-2Etapa
 
 ### 
 
